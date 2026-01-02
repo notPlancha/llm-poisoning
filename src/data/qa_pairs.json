@@ -1,0 +1,466 @@
+[
+  {
+    "question": "In 2024, how many million daily trips were made in London on an average day?",
+    "answer": 26.6
+  },
+  {
+    "question": "By what percentage did daily trips in London increase from 2023 to 2024?",
+    "answer": 1.7
+  },
+  {
+    "question": "In 2024, how many million daily journey stages were there in London on an average day?",
+    "answer": 30.2
+  },
+  {
+    "question": "What was the percentage increase in daily journey stages in London between 2023 and 2024?",
+    "answer": 1.6
+  },
+  {
+    "question": "In 2024, what percentage of all trips in London used active, efficient and sustainable modes?",
+    "answer": 63.4
+  },
+  {
+    "question": "What was the active, efficient and sustainable mode share percentage in London in 2019?",
+    "answer": 63.6
+  },
+  {
+    "question": "In 2024, what percentage of all trips in London were walking trips?",
+    "answer": 25.7
+  },
+  {
+    "question": "What was the cycling mode share percentage in London in 2024?",
+    "answer": 4.7
+  },
+  {
+    "question": "What was the cycling mode share percentage in London in 2019?",
+    "answer": 3.6
+  },
+  {
+    "question": "What was the cycling mode share percentage in London in 2000?",
+    "answer": 1.9
+  },
+  {
+    "question": "By what percentage did London’s population grow in 2024 compared with 2023?",
+    "answer": 1.0
+  },
+  {
+    "question": "By what percentage was London’s population larger in 2024 than in 2019?",
+    "answer": 2.2
+  },
+  {
+    "question": "Approximately how many more residents were there in London in 2024 compared with 2019, in thousands?",
+    "answer": 200
+  },
+  {
+    "question": "How many more births than deaths were there in London in 2024, in thousands?",
+    "answer": 55
+  },
+  {
+    "question": "How many London residents moved to other parts of the UK in 2024, in thousands?",
+    "answer": 415
+  },
+  {
+    "question": "By what percentage did the number of London residents moving to other parts of the UK increase between 2014 and 2024?",
+    "answer": 28
+  },
+  {
+    "question": "By what percentage did the number of London residents moving to the North and Midlands increase since 2014?",
+    "answer": 40
+  },
+  {
+    "question": "Between 2019 and 2014, by what percentage did the population grow in the East and South East regions?",
+    "answer": 5
+  },
+  {
+    "question": "Between 2019 and 2014, by what percentage did London’s population grow?",
+    "answer": 2
+  },
+  {
+    "question": "What is the Mayoral target percentage for trips in London to be made by active, efficient and sustainable modes by 2041?",
+    "answer": 80
+  },
+  {
+    "question": "What percentage of trips in London were made by public transport in 2019?",
+    "answer": 35.4
+  },
+  {
+    "question": "What percentage of trips in London were made by public transport in 2000?",
+    "answer": 26.6
+  },
+  {
+    "question": "What percentage of trips in London were made by private transport in 2019?",
+    "answer": 36.4
+  },
+  {
+    "question": "What percentage of trips in London were made by private transport in 2000?",
+    "answer": 47.6
+  },
+  {
+    "question": "What was the public transport mode share percentage in London in 2024?",
+    "answer": 33.0
+  },
+  {
+    "question": "What was the private transport mode share percentage in London in 2024?",
+    "answer": 36.6
+  },
+  {
+    "question": "Between 2000 and 2019, by what percentage did the total number of trips made in London on an average day increase?",
+    "answer": 20
+  },
+  {
+    "question": "Between 2015 and 2019, by what percentage did average daily trips in London increase?",
+    "answer": 0.4
+  },
+  {
+    "question": "By what percentage did London’s population increase between 2015 and 2019?",
+    "answer": 2.7
+  },
+  {
+    "question": "In 2024, by what percentage was overall travel demand in London lower than in 2019?",
+    "answer": 2.5
+  },
+  {
+    "question": "In 2024, by what percentage was the number of daily journey stages in London lower than in 2019?",
+    "answer": 5.7
+  },
+  {
+    "question": "In 2024, by what percentage was National Rail and London Overground daily demand below 2019 levels?",
+    "answer": 8.3
+  },
+  {
+    "question": "In 2024, by what percentage was London Underground daily demand below 2019 levels?",
+    "answer": 10.3
+  },
+  {
+    "question": "In 2024, by what percentage was daily bus demand below 2019 levels?",
+    "answer": 9.0
+  },
+  {
+    "question": "In 2024, by what percentage was daily bus demand lower than a decade earlier?",
+    "answer": 18.9
+  },
+  {
+    "question": "In 2024, by what percentage were daily car driver trips below 2019 levels?",
+    "answer": 1.8
+  },
+  {
+    "question": "In 2024, by what percentage did National Rail and London Overground demand grow compared with 2023?",
+    "answer": 7.3
+  },
+  {
+    "question": "In 2024, by what percentage did London Underground demand grow compared with 2023?",
+    "answer": 2.0
+  },
+  {
+    "question": "In 2024, by what percentage did daily bus demand change compared with 2023?",
+    "answer": -0.5
+  },
+  {
+    "question": "In 2024, by what percentage did daily car driver trips change compared with 2023?",
+    "answer": 1.4
+  },
+  {
+    "question": "What was the London population increase rate in 2023, in percentage?",
+    "answer": 1.4
+  },
+  {
+    "question": "Between 2019 and 2024, by what percentage did London’s population grow?",
+    "answer": 2.2
+  },
+  {
+    "question": "By what percentage did the median age increase fastest in London between 2011 and 2024 compared with other UK regions, in percentage terms?",
+    "answer": 0
+  },
+  {
+    "question": "What is the forecast percentage growth in London’s real Gross Value Added in 2025?",
+    "answer": 1.6
+  },
+  {
+    "question": "What was the percentage growth in London’s real Gross Value Added in 2024?",
+    "answer": 1.1
+  },
+  {
+    "question": "What is the forecast percentage growth in London’s real Gross Value Added in 2026?",
+    "answer": 1.7
+  },
+  {
+    "question": "What is the forecast percentage growth in London’s real Gross Value Added in 2027?",
+    "answer": 1.9
+  },
+  {
+    "question": "What is the Bank of England’s forecast percentage growth in UK GDP in the year to Q4 2025?",
+    "answer": 1.2
+  },
+  {
+    "question": "What is the Bank of England’s forecast percentage growth in UK GDP in the year to Q4 2026?",
+    "answer": 1.3
+  },
+  {
+    "question": "What is the Bank of England’s forecast percentage growth in UK GDP in the year to Q4 2027?",
+    "answer": 1.5
+  },
+  {
+    "question": "What is the Bank of England’s forecast percentage growth in UK GDP in the year to Q4 2028?",
+    "answer": 1.7
+  },
+  {
+    "question": "Around how many households are surveyed each year in the London Travel Demand Survey?",
+    "answer": 8000
+  },
+  {
+    "question": "How many households were in the 2024–25 London Travel Demand Survey sample?",
+    "answer": 8210
+  },
+  {
+    "question": "In 2024–25, what was the average number of trips per person per day for London residents?",
+    "answer": 2.0
+  },
+  {
+    "question": "By what percentage was the 2024–25 trip rate below the 2019–20 trip rate?",
+    "answer": 9
+  },
+  {
+    "question": "By what percentage was the 2024–25 trip rate below the 2022–23 trip rate?",
+    "answer": 3
+  },
+  {
+    "question": "What was the highest recorded London Travel Demand Survey trip rate in 2006–07, in trips per person per day?",
+    "answer": 2.64
+  },
+  {
+    "question": "Between 2022–23 and 2023–24, to what value did the average trip rate fall in trips per person per day?",
+    "answer": 1.98
+  },
+  {
+    "question": "By what percentage is the average trip rate in 2024–25 below the 2006–07 high point?",
+    "answer": 24
+  },
+  {
+    "question": "By what percentage did the proportion of London residents who did not leave home on the survey day increase, comparing pre- and post-pandemic three-year periods?",
+    "answer": 3
+  },
+  {
+    "question": "What percentage of London residents did not leave home on the survey day in the pre-pandemic three-year average?",
+    "answer": 22
+  },
+  {
+    "question": "What percentage of London residents did not leave home on the survey day in the post-pandemic three-year average?",
+    "answer": 25
+  },
+  {
+    "question": "By what percentage did men’s trip rates decrease between the pre- and post-pandemic three-year averages?",
+    "answer": 6
+  },
+  {
+    "question": "By what percentage did women’s trip rates decrease between the pre- and post-pandemic three-year averages?",
+    "answer": 7
+  },
+  {
+    "question": "In 2024–25, what was the trip rate for those aged 17 to 24, in trips per person per day?",
+    "answer": 1.64
+  },
+  {
+    "question": "In 2024–25, what was the trip rate for those aged 25 to 44, in trips per person per day?",
+    "answer": 2.22
+  },
+  {
+    "question": "In 2024–25, what was the trip rate for students, in trips per person per day?",
+    "answer": 1.65
+  },
+  {
+    "question": "In 2024–25, what was the trip rate for part-time workers, in trips per person per day?",
+    "answer": 2.40
+  },
+  {
+    "question": "In 2024–25, what was the trip rate for people in households with income under 25,000 pounds, in trips per person per day?",
+    "answer": 1.84
+  },
+  {
+    "question": "In 2024–25, what was the trip rate for people in households with income of 100,000 pounds or more, in trips per person per day?",
+    "answer": 2.20
+  },
+  {
+    "question": "Between the pre- and post-pandemic three-year periods, by what percentage did trip rates decrease for households with incomes between 25,000 and 50,000 pounds?",
+    "answer": 10
+  },
+  {
+    "question": "By what percentage did the London Overground and National Rail trip rate increase between 2023–24 and 2024–25?",
+    "answer": 12
+  },
+  {
+    "question": "By what percentage did the London Underground and DLR trip rate increase between 2023–24 and 2024–25?",
+    "answer": 6
+  },
+  {
+    "question": "In 2024–25, by what percentage was the London Underground and DLR trip rate below its 2019–20 level?",
+    "answer": 22
+  },
+  {
+    "question": "In 2024–25, by what percentage was the bus and tram trip rate below its 2019–20 level?",
+    "answer": 14
+  },
+  {
+    "question": "In 2024–25, by how many percentage points did the combined public transport mode share for London residents increase compared with 2023–24?",
+    "answer": 1
+  },
+  {
+    "question": "What was the combined public transport mode share for London residents in 2024–25, in percentage?",
+    "answer": 28
+  },
+  {
+    "question": "What was the combined public transport mode share for London residents in 2019–20, in percentage?",
+    "answer": 29
+  },
+  {
+    "question": "What was the combined private mode share for London residents in 2024–25, in percentage?",
+    "answer": 32
+  },
+  {
+    "question": "What was the active travel mode share for London residents in 2024–25, in percentage?",
+    "answer": 40
+  },
+  {
+    "question": "What was the active, efficient and sustainable mode share for London residents in 2024–25, in percentage?",
+    "answer": 68
+  },
+  {
+    "question": "What proportion of London residents’ trips in 2024–25 were for commuting, in percentage?",
+    "answer": 17
+  },
+  {
+    "question": "What proportion of London residents’ trips in 2024–25 were for shopping and personal business, in percentage?",
+    "answer": 21
+  },
+  {
+    "question": "What proportion of London residents’ trips in 2024–25 were for leisure, in percentage?",
+    "answer": 32
+  },
+  {
+    "question": "By what percentage did the proportion of commuting trips decrease between 2019–20 and 2022–23?",
+    "answer": 15
+  },
+  {
+    "question": "What proportion of London resident workers were able to work from home in 2023–24, in percentage?",
+    "answer": 47
+  },
+  {
+    "question": "What proportion of London resident workers were able to work from home in 2024–25, in percentage?",
+    "answer": 45
+  },
+  {
+    "question": "What proportion of workers were encouraged to work from home in 2022–23, in percentage?",
+    "answer": 36
+  },
+  {
+    "question": "What proportion of workers were encouraged to work from home in 2024–25, in percentage?",
+    "answer": 33
+  },
+  {
+    "question": "In 2022–23, what proportion of London resident workers worked from home three or more days per week, in percentage?",
+    "answer": 27
+  },
+  {
+    "question": "In 2024–25, what proportion of London resident workers worked from home three or more days per week, in percentage?",
+    "answer": 22
+  },
+  {
+    "question": "In 2024–25, what proportion of workers were not able to work from home, in percentage?",
+    "answer": 55
+  },
+  {
+    "question": "In 2024–25, what proportion of workers either did not work from home at all or did so less than once per week, in percentage?",
+    "answer": 58
+  },
+  {
+    "question": "In 2024–25, how many kilometres did London residents travel per person per day on average?",
+    "answer": 11.9
+  },
+  {
+    "question": "By what percentage was the 2024–25 distance travelled per person per day lower than in 2019–20?",
+    "answer": 9
+  },
+  {
+    "question": "What was the average time travelled per person per day for London residents in 2024–25, in minutes?",
+    "answer": 54.8
+  },
+  {
+    "question": "For England residents in 2024, how many kilometres were travelled per person per day on average?",
+    "answer": 26.8
+  },
+  {
+    "question": "By what percentage was the 2024 distance travelled per person per day for England residents lower than in 2019?",
+    "answer": 6
+  },
+  {
+    "question": "What proportion of London households did not own a car in 2024–25, in percentage?",
+    "answer": 48
+  },
+  {
+    "question": "What proportion of inner London households had no car in 2024–25, in percentage?",
+    "answer": 64
+  },
+  {
+    "question": "What proportion of outer London households had no car in 2024–25, in percentage?",
+    "answer": 36
+  },
+  {
+    "question": "In 2024–25, how many million walking-all-the-way trips per day were made by London residents?",
+    "answer": 6.2
+  },
+  {
+    "question": "In 2024–25, what percentage of all trips made by London residents were walking-all-the-way trips?",
+    "answer": 38
+  },
+  {
+    "question": "In 2024–25, what was the walking-all-the-way trip rate for London residents, in trips per person per day?",
+    "answer": 0.75
+  },
+  {
+    "question": "What was the walking-all-the-way trip rate high point in 2022–23, in trips per person per day?",
+    "answer": 0.81
+  },
+  {
+    "question": "In 2024–25, what proportion of walking-all-the-way trips were for leisure, in percentage?",
+    "answer": 38
+  },
+  {
+    "question": "In 2024–25, what proportion of walking-all-the-way trips were for shopping and personal business, in percentage?",
+    "answer": 24
+  },
+  {
+    "question": "In 2024–25, what proportion of walking-all-the-way trips were for commuting, in percentage?",
+    "answer": 6
+  },
+  {
+    "question": "In 2024–25, what proportion of walking-all-the-way trips were for other work-related purposes, in percentage?",
+    "answer": 1
+  },
+  {
+    "question": "In 2025, by what percentage did pedestrian activity in central London increase in the first two quarters compared with the same quarters of 2024?",
+    "answer": 7
+  },
+  {
+    "question": "By approximately what percentage did central London pedestrian activity in 2025 remain below 2019 levels?",
+    "answer": 10
+  },
+  {
+    "question": "Across London as a whole, by what percentage did pedestrian flows change between 2024 and 2025?",
+    "answer": 0.8
+  },
+  {
+    "question": "In 2024–25, what percentage of London residents aged 20 and over achieved 20 minutes of physical activity per day through travel?",
+    "answer": 43.3
+  },
+  {
+    "question": "What was the corresponding percentage of London residents achieving 20 minutes of physical activity per day in 2023–24?",
+    "answer": 39.6
+  },
+  {
+    "question": "What was the percentage of London residents achieving 20 minutes of physical activity per day in 2019–20?",
+    "answer": 42.4
+  },
+  {
+    "question": "What is the monitoring target percentage for London residents aged 20 and over to achieve 20 minutes of physical activity per day?",
+    "answer": 70.0
+  }
+]
